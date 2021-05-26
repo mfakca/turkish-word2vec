@@ -24,6 +24,7 @@ Wikipedia veri seti ile Türkçe Word2vec model eğitimi.
 <br>
 ![bilişim](https://user-images.githubusercontent.com/56470222/119734683-0001a380-be84-11eb-997e-ed7f376364da.png)
 
+### Model dosyası için: https://drive.google.com/drive/folders/1TBFhD3azR6DbqgNj2Y_JqaHMwUHzyUWm?usp=sharing
 
 ## Referanslar:
 * https://github.com/akoksal/Turkish-Word2Vec
